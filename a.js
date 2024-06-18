@@ -1,3 +1,2 @@
-const a =44456
+const a =444
 console.log(a)
-console.log(451515)
